@@ -1,0 +1,4 @@
+model,sufficient_train_size,best_auc
+lightgbm,1000000,0.8284
+random_forest,300000,0.8096
+logistic_regression,10000,0.6844

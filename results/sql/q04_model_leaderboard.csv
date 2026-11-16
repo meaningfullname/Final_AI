@@ -1,0 +1,5 @@
+model,train_size,roc_auc,f1,train_time_s,model_size_mb,auc_rank,gain_vs_baseline
+lightgbm,1000000,0.8284,0.7611,11.7,4.07,1,0.3284
+random_forest,300000,0.8096,0.7457,37.8,67.59,2,0.3096
+logistic_regression,1000000,0.6844,0.6875,3.4,0.0,3,0.1844
+dummy,1000000,0.5,0.692,2.3,0.0,4,0.0

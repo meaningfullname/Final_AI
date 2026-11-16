@@ -1,0 +1,4 @@
+feature_set,train_size,roc_auc,diff_vs_all_features,train_time_s
+all,300000,0.8221,0.0,3.5
+high_level,300000,0.7875,-0.0345,1.6
+low_level,300000,0.7276,-0.0944,2.7

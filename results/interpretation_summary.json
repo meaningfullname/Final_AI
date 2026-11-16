@@ -1,0 +1,22 @@
+{
+  "model": "lightgbm",
+  "confusion_matrix": [
+    [
+      169815,
+      65678
+    ],
+    [
+      61651,
+      202856
+    ]
+  ],
+  "error_rate": 0.2547,
+  "confident_error_share_of_errors": 0.0247,
+  "top_features": [
+    "m_bb",
+    "m_wwbb",
+    "m_wbb",
+    "jet1_pt",
+    "m_jjj"
+  ]
+}

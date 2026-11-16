@@ -1,0 +1,4 @@
+method,rows,seconds,memory_mb,same_result_as_baseline
+"CSV, default dtypes (baseline)",1000000,3.71,221.3,True
+"CSV, float32 dtypes",1000000,3.81,114.4,True
+Parquet,1000000,0.09,107.8,True

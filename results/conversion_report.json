@@ -1,0 +1,10 @@
+{
+  "rows": 11000000,
+  "chunks": 22,
+  "memory_before_mb": 2433.8,
+  "memory_after_mb": 1185.4,
+  "seconds": 56.0,
+  "raw_file_mb": 2685.9,
+  "parquet_file_mb": 695.1,
+  "memory_saved_pct": 51.3
+}

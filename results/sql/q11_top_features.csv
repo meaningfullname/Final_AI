@@ -1,0 +1,11 @@
+name,level,object,importance,rank_in_level
+m_bb,high,invariant_mass,0.1183,1
+m_wwbb,high,invariant_mass,0.0831,2
+m_wbb,high,invariant_mass,0.0654,3
+jet1_pt,low,jet1,0.0336,1
+m_jjj,high,invariant_mass,0.0321,4
+m_jlv,high,invariant_mass,0.0287,5
+lepton_pt,low,lepton,0.0226,2
+missing_energy_magnitude,low,missing_energy,0.0135,3
+m_jj,high,invariant_mass,0.0134,6
+jet2_pt,low,jet2,0.0124,4

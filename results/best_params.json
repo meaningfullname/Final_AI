@@ -1,0 +1,29 @@
+{
+  "logistic_regression": {
+    "params": {
+      "clf__C": 10.0
+    },
+    "cv_roc_auc": 0.6843,
+    "seconds": 2.6
+  },
+  "random_forest": {
+    "params": {
+      "clf__min_samples_leaf": 20,
+      "clf__max_features": 0.5,
+      "clf__max_depth": 16
+    },
+    "cv_roc_auc": 0.7978,
+    "seconds": 43.7
+  },
+  "lightgbm": {
+    "params": {
+      "clf__num_leaves": 127,
+      "clf__n_estimators": 300,
+      "clf__min_child_samples": 20,
+      "clf__learning_rate": 0.05,
+      "clf__colsample_bytree": 1.0
+    },
+    "cv_roc_auc": 0.8092,
+    "seconds": 26.1
+  }
+}

@@ -1,0 +1,4 @@
+event_group,events,signal_share,mean_m_bb,mean_m_wwbb,mean_m_wbb
+correct in all models,52466,0.61,1.0455,0.979,1.0613
+models disagree,32936,0.4642,0.8528,0.9337,0.9923
+wrong in all models,14598,0.3933,0.9966,0.9556,1.0331

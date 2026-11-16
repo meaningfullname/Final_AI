@@ -1,0 +1,5 @@
+model,true_positive,true_negative,false_positive,false_negative
+dummy,53036,0,46964,0
+lightgbm,40748,33800,13164,12288
+logistic_regression,39556,24608,22356,13480
+random_forest,39750,33248,13716,13286

@@ -1,0 +1,11 @@
+name,level,mean_signal,mean_background,separation
+m_bb,high,0.8977,1.0578,0.3131
+m_wwbb,high,0.9234,1.0008,0.2485
+missing_energy_magnitude,low,0.942,1.0622,0.2013
+m_wbb,high,1.0105,1.0585,0.1315
+jet1_pt,low,1.0164,0.9622,0.1144
+jet2_btag,low,0.9506,1.0557,0.1003
+lepton_pt,low,0.9656,1.0206,0.0974
+jet4_pt,low,1.0038,0.9662,0.0746
+m_jlv,high,0.9982,1.0228,0.0619
+m_jjj,high,1.034,1.0145,0.0514

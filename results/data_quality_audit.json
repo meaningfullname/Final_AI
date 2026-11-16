@@ -1,0 +1,13 @@
+{
+  "rows": 11000000,
+  "missing": 0,
+  "infinite": 0,
+  "bad_labels": 0,
+  "label_counts": {
+    "0": 5170877,
+    "1": 5829123
+  },
+  "negative_values": {},
+  "duplicate_rows": 278698,
+  "signal_share": 0.5299
+}
