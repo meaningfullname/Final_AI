@@ -1,0 +1,9 @@
+# raw and converted data are too large for GitHub (see README for the source link)
+data/
+# trained models can be re-created with step 5
+models/
+results/test_predictions.parquet
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
