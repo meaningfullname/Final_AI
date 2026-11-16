@@ -41,8 +41,8 @@ docs/er_diagram.md    ER diagram of the database
 Python 3.10 or newer.
 
 ```bash
-git clone <repository url>
-cd higgs-classification
+git clone https://github.com/meaningfullname/Final_AI.git
+cd Final_AI
 pip install -r requirements.txt
 python main.py            # interactive menu
 ```
@@ -59,8 +59,8 @@ python main.py --all --no-tuning        # skip the hyperparameter search
 ### Google Colab
 
 ```
-!git clone <repository url>
-%cd higgs-classification
+!git clone https://github.com/meaningfullname/Final_AI.git
+%cd Final_AI
 !pip install -q -r requirements.txt
 !python main.py --all
 ```
