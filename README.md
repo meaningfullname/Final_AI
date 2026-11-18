@@ -1,10 +1,10 @@
 # Higgs Signal vs Background Classification
 
-Final project for the course **Programming for Data Analysis and Database**
+Final project for the course **Programming for AI**
 (MSc Applied Artificial Intelligence, Astana IT University). Topic 38, Cluster 7:
 Machine Learning on Tabular Data.
 
-**Author:** Nurislam Toktarov, group AAI-2602
+**Authors:** Nurislam Toktarov (group AAI-2602), Kuanysh Murat
 
 ## Task
 
