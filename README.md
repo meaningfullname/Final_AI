@@ -4,7 +4,7 @@ Final project for the course **Programming for AI**
 (MSc Applied Artificial Intelligence, Astana IT University). Topic 38, Cluster 7:
 Machine Learning on Tabular Data.
 
-**Authors:** Nurislam Toktarov (group AAI-2602), Kuanysh Murat
+**Authors:** Nurislam Toktarov, Kuanysh Murat (group AAI-2602)
 
 ## Task
 
